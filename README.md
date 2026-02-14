@@ -1,4 +1,4 @@
-# Olá, sou Jadson Paz Sales
+# Jadson Paz Sales 👨‍💻
 **`Frontend Developer`**
 
 Me chamo Jadson Paz Sales. Tenho 17 anos, natural de São Raimundo das mangabeiras. Fiz o ensino médio no IFMA, com o curso técnico em informática. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unibalsas. Gosto bastante da área e estou sempre disposto a aprender mais e a compartilhar o que estou aprendendo com outros. Conheça mais sobre mim no instagram: "[JadsonPaz](https://www.instagram.com/jadsonpaz.sales/) " 
